@@ -1,0 +1,12 @@
+.todo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items-list{
+width: 721px;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
